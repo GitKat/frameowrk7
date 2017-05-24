@@ -8,13 +8,11 @@
         Apache Cordova Team
     </author>
      
-    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
- 
+  
     <content src="index.html" />
     <access origin="*" />
  
-    <allow-navigation href="http://*/*" />
-
+ 
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
